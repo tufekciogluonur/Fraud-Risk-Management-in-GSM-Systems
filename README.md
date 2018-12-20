@@ -1,5 +1,5 @@
 # Fraud-Risk-Management-in-GSM-Systems
 
-From [the paper](http://eds.yildiz.edu.tr/sigma/ContentDetails?Volume=8&IssueNumber=2)
+From [the paper](https://github.com/tufekciogluonur/Fraud-Risk-Management-in-GSM-Systems/blob/master/YTUJENS-2017-8-2.1837.pdf)
 
 GSM operators use manual rule based fraud detection systems in order to identify fraud operations that cause risks. An operator reported very low fraud detection success by using a manual system. In this study, we evaluated the impact of machine learning methods on the performance of fraud detection. Machine learning methods, including K-Nearest Neighbor, Naïve Bayes, Random Forest and Support Vector Machines are utilized in order to increase the performance of the existing manually operated fraud detection. We constructed our dataset by using the cases of the observed GSM operator, where an action is taken upon a suspicious fraud activity. We defined feature set for these samples, which occurred in a period of two months. Besides the mentioned machine learning algorithms, we also performed feature selection and comparatively evaluated their performances. The experimental results show that, machine learning approach doubles the fraud detection performance, even at the worst model.
